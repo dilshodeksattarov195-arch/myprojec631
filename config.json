@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "paymentcerify",
+        "uuid": 6127641,
+        "checksum": "mnbvqb"
+    },
+    "settings": {
+        "retries": 3,
+        "enabled": false,
+        "mode": "staging"
+    }
+}
